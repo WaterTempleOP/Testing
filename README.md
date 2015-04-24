@@ -1,2 +1,2 @@
 # Testing
-Testy program
+I have no fucking clue what im doing
